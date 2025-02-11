@@ -1,0 +1,28 @@
+{
+  "template": "/home/micael/projects/crustypy",
+  "commit": "082758186c58ff83b65ec677752355fe4b30cc46",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Micael Jarniac",
+      "email": "micael@jarniac.dev",
+      "github_username": "MicaelJarniac",
+      "year": "2025",
+      "project_name": "uv Template Testing",
+      "project_slug": "uv_template_testing",
+      "project_distribution_name": "uv-template-testing",
+      "project_short_description": "A simple Python project.",
+      "version": "0.0.0",
+      "main_branch": "main",
+      "shields_url": "https://img.shields.io",
+      "discord_invite": "",
+      "report_method": "micael@jarniac.dev",
+      "__github_path": "MicaelJarniac/uv-template-testing",
+      "__github_url": "https://github.com/MicaelJarniac/uv-template-testing",
+      "__readthedocs_name": "uv-template-testing",
+      "_template": "/home/micael/projects/crustypy",
+      "_commit": "082758186c58ff83b65ec677752355fe4b30cc46"
+    }
+  },
+  "directory": null
+}
